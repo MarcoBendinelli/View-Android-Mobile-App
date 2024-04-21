@@ -1,0 +1,143 @@
+<resources>
+    <string name="app_name">ViewApp</string>
+    <string name="web_client_id">m4rc0</string>
+
+    <!-- Auth -->
+    <string name="welcome">Benvenuto!</string>
+    <string name="welcome_subtitle">Ciao, continua e scopri le storie da tutto il mondo.</string>
+    <string name="continue_with">Continua con</string>
+    <string name="already_account">Hai già un account?</string>
+    <string name="log_in">Accedi</string>
+    <string name="policy_terms">Continuando, accetti i Termini di Utilizzo e l\'Informativa sulla Privacy.</string>
+
+    <!-- Log in -->
+    <string name="sign_in_now">Accedi ora!</string>
+    <string name="log_in_to_see">Accedi per vedere le storie da tutto il mondo!</string>
+    <string name="email">Email</string>
+    <string name="enter_email">Inserisci la tua email</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Inserisci la tua password</string>
+    <string name="forgot_password">Password dimenticata?</string>
+    <string name="sign_in">Accedi</string>
+
+    <!-- Sign up -->
+    <string name="sign_up_now">Registrati ora!</string>
+    <string name="sign_up_to_see">Registrati per vedere le storie da tutto il mondo!</string>
+    <string name="sign_up">Registrati</string>
+    <string name="confirm_password">Conferma Password</string>
+    <string name="enter_confirm_password">Conferma la tua password</string>
+
+    <!-- Topic selection -->
+    <string-array name="topics">
+        <item>Gioco</item>
+        <item>Design</item>
+        <item>Salute</item>
+        <item>Intrattenimento</item>
+        <item>Grafica</item>
+        <item>Arte</item>
+        <item>Tecnologia</item>
+        <item>Musica</item>
+        <item>Scrittura</item>
+        <item>Notizie</item>
+        <item>Aziende</item>
+        <item>Sport</item>
+        <item>Moda</item>
+        <item>Ecologia</item>
+        <item>Scienza</item>
+        <item>Fitness</item>
+        <item>Storia</item>
+        <item>Video</item>
+        <item>Cibo</item>
+        <item>Divertimento</item>
+        <item>Viaggi</item>
+        <item>FDT</item>
+        <item>Meditazione</item>
+    </string-array>
+    <string name="select_topic">Seleziona il tema, Inizia a leggere</string>
+    <string name="continue_text">Continua</string>
+    <string name="skip">Salta</string>
+
+    <!-- User selection -->
+    <string name="follow_contributors">Segui i contributori</string>
+    <string name="follow_contributors_body">Segui per vedere cosa condividono</string>
+    <string name="follow">Segui</string>
+    <string name="no_user">Nessun utente trovato</string>
+
+    <!-- Forgot Password -->
+    <string name="reset_password">Ripristina password</string>
+    <string name="reset_pss_body">Inserisci la tua email e ti invieremo un link per ripristinare la tua vecchia password</string>
+
+    <!-- Email Sent -->
+    <string name="email_sent">Email inviata</string>
+    <string name="email_sent_body">Controlla la tua email e clicca sul link per ripristinare la tua password.</string>
+    <string name="back_to_login">Torna al login</string>
+
+    <!-- Home -->
+    <string name="hello">Ciao</string>
+    <string name="hello_body">Vediamo le storie consigliate per te</string>
+    <string name="for_you">Per te</string>
+    <string name="for_you_body">Vediamo le storie consigliate</string>
+    <string name="trending_now">Tendenze del momento…</string>
+    <string name="following">Segui</string>
+    <string name="read_time">Tempo di lettura:</string>
+    <string name="no_post">Nessun post trovato</string>
+    <string name="newest">Nuovi</string>
+    <string name="ago">fa</string>
+    <string name="min">min</string>
+    <string name="hour">ora</string>
+    <string name="hours">ore</string>
+    <string name="second">secondo</string>
+    <string name="seconds">secondi</string>
+    <string name="minute">minuto</string>
+    <string name="minutes">minuti</string>
+    <string name="day">giorno</string>
+    <string name="days">giorni</string>
+    <string name="month">mese</string>
+    <string name="months">mesi</string>
+    <string name="year">anno</string>
+    <string name="years">anni</string>
+
+    <!-- Saved -->
+    <string name="saved">Salvati</string>
+
+    <!-- Search -->
+    <string name="search">Cerca</string>
+
+    <!-- Add Post -->
+    <string name="publish_now">Pubblica Adesso</string>
+    <string name="upload_image">Carica l\'immagine di Anteprima</string>
+    <string name="start_typing_here">Inizia a scrivere qui…</string>
+    <string name="add_title">Aggiungi un Titolo qui…</string>
+    <string name="add_subtitle">Aggiungi un sottotitolo qui…</string>
+
+    <!-- Error Messages -->
+    <string name="failed_fetch_posts">Recupero post non riuscito</string>
+    <string name="failed_fetch_post">Recupero post non riuscito</string>
+    <string name="failed_fetch_users">Recupero utenti non riuscito</string>
+    <string name="failed_fetch_user">Recupero utente non riuscito</string>
+    <string name="email_not_blank">L\'email non può essere vuota</string>
+    <string name="invalid_email_address">Indirizzo email non valido</string>
+    <string name="password_at_least">La password deve contenere almeno 6 caratteri</string>
+    <string name="password_letter_digit">La password deve contenere almeno una lettera o un numero</string>
+    <string name="passwords_not_match">Le password non corrispondono</string>
+
+    <!-- Post -->
+    <string name="post">Post</string>
+
+    <!-- User -->
+    <string name="user">Profilo Utente</string>
+    <string name="followers">Seguaci</string>
+    <string name="posts">Post</string>
+    <string name="posts_from">Post Da</string>
+
+    <!-- Settings -->
+    <string name="settings">Impostazioni</string>
+    <string name="log_out">Esci</string>
+    <string name="edit_profile">Modifica Profilo</string>
+
+    <!-- Edit Profile -->
+    <string name="personal_info">Informazioni Personali…</string>
+    <string name="username">Nome Utente</string>
+    <string name="profession">Professione</string>
+    <string name="save">Salva</string>
+</resources>

@@ -1,0 +1,143 @@
+<resources>
+    <string name="app_name">ViewApp</string>
+    <string name="web_client_id">m4rc0</string>
+
+    <!-- Auth -->
+    <string name="welcome">Welcome Back!</string>
+    <string name="welcome_subtitle">Hello there, Continue with and see the stories from around the world.</string>
+    <string name="continue_with">Continue with</string>
+    <string name="already_account">Already have an account?</string>
+    <string name="log_in">Log in</string>
+    <string name="policy_terms">By continuing, you accept the Terms Of Use and Privacy Policy.</string>
+
+    <!-- Log in -->
+    <string name="sign_in_now">Sign in Now!</string>
+    <string name="log_in_to_see">Login to see stories around the world!</string>
+    <string name="email">Email</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Enter your password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in">Sign In</string>
+
+    <!-- Sign up -->
+    <string name="sign_up_now">Sign Up Now!</string>
+    <string name="sign_up_to_see">Sign up to see stories around the world!</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="enter_confirm_password">Confirm your password</string>
+
+    <!-- Topic selection -->
+    <string-array name="topics">
+        <item>Game</item>
+        <item>Design</item>
+        <item>Health</item>
+        <item>Entertainment</item>
+        <item>Graphic</item>
+        <item>Art</item>
+        <item>Tech</item>
+        <item>Music</item>
+        <item>Writing</item>
+        <item>News</item>
+        <item>Business</item>
+        <item>Sports</item>
+        <item>Fashion</item>
+        <item>Ecology</item>
+        <item>Science</item>
+        <item>Fitness</item>
+        <item>History</item>
+        <item>Video</item>
+        <item>Food</item>
+        <item>Fun</item>
+        <item>Travel</item>
+        <item>DIY</item>
+        <item>Meditation</item>
+    </string-array>
+    <string name="select_topic">Select Topic, Start Reading</string>
+    <string name="continue_text">Continue</string>
+    <string name="skip">Skip</string>
+
+    <!-- User selection -->
+    <string name="follow_contributors">Follow Contributors</string>
+    <string name="follow_contributors_body">Follow to see what’s their share</string>
+    <string name="follow">Follow</string>
+    <string name="no_user">No users found</string>
+
+    <!-- Forgot Password -->
+    <string name="reset_password">Reset Password</string>
+    <string name="reset_pss_body">Input your email that we send a link to reset your old password</string>
+
+    <!-- Email Sent -->
+    <string name="email_sent">Email Sent</string>
+    <string name="email_sent_body">Check your email and click the link to reset your password.</string>
+    <string name="back_to_login">Back to login</string>
+
+    <!-- Home -->
+    <string name="hello">Hello</string>
+    <string name="hello_body">Let’s see recommendation stories for you</string>
+    <string name="for_you">For you</string>
+    <string name="for_you_body">Let’s see recommendation stories</string>
+    <string name="trending_now">Trending Now…</string>
+    <string name="following">Following</string>
+    <string name="read_time">Read Time:</string>
+    <string name="no_post">No posts found</string>
+    <string name="newest">Newest</string>
+    <string name="ago">ago</string>
+    <string name="min">min</string>
+    <string name="hour">hour</string>
+    <string name="hours">hours</string>
+    <string name="second">second</string>
+    <string name="seconds">seconds</string>
+    <string name="minute">minute</string>
+    <string name="minutes">minutes</string>
+    <string name="day">day</string>
+    <string name="days">days</string>
+    <string name="month">month</string>
+    <string name="months">months</string>
+    <string name="year">year</string>
+    <string name="years">years</string>
+
+    <!-- Saved -->
+    <string name="saved">Saved</string>
+
+    <!-- Search -->
+    <string name="search">Search</string>
+
+    <!-- Add Post -->
+    <string name="publish_now">Publish Now</string>
+    <string name="upload_image">Upload Thumb Image</string>
+    <string name="start_typing_here">Start typing Here…</string>
+    <string name="add_title">Add a title here…</string>
+    <string name="add_subtitle">Add a subtitle here…</string>
+
+    <!-- Error Messages -->
+    <string name="failed_fetch_posts">Failed to fetch posts</string>
+    <string name="failed_fetch_post">Failed to fetch post</string>
+    <string name="failed_fetch_users">Failed to fetch users</string>
+    <string name="failed_fetch_user">Failed to fetch user</string>
+    <string name="email_not_blank">Email cannot be blank</string>
+    <string name="invalid_email_address">Invalid email address</string>
+    <string name="password_at_least">Password must be at least 6 characters</string>
+    <string name="password_letter_digit">Password must contain at least one letter or digit</string>
+    <string name="passwords_not_match">The passwords don\'t match</string>
+
+    <!-- Post -->
+    <string name="post">Post</string>
+
+    <!-- User -->
+    <string name="user">User Profile</string>
+    <string name="followers">Followers</string>
+    <string name="posts">Posts</string>
+    <string name="posts_from">Posts From</string>
+
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="log_out">Log Out</string>
+    <string name="edit_profile">Edit Profile</string>
+
+    <!-- Edit Profile -->
+    <string name="personal_info">Personal Info…</string>
+    <string name="username">Username</string>
+    <string name="profession">Profession</string>
+    <string name="save">Save</string>
+</resources>
