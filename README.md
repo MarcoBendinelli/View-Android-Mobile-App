@@ -3,7 +3,7 @@ View is a Mobile Application allowing users to write and read articles or blogs 
 
 ## Navigation Graph
 <p align="center">
-  <img width="800" src="images/navigation_graph.svg" alt="navigation_Graph">
+  <img width="800" src="va_images/navigation_graph.svg" alt="navigation_Graph">
 </p>
 
 ## Screens and Features
@@ -16,11 +16,11 @@ View is a Mobile Application allowing users to write and read articles or blogs 
 * Contributors / Users and Topics _Selection_ phase after first application access
     
 <p align="center">
-  <img width="750" src="images/screens_auth.svg" alt="screens_auth">
+  <img width="750" src="va_images/screens_auth.svg" alt="screens_auth">
 </p>
 
 <p align="center">
-  <img width="750" src="images/screens_signup.svg" alt="screens_signup">
+  <img width="750" src="va_images/screens_signup.svg" alt="screens_signup">
 </p>
 
 ### Home
@@ -32,7 +32,7 @@ View is a Mobile Application allowing users to write and read articles or blogs 
 * More Posts are loaded on end list reaching for better performances
 
 <p align="center">
-  <img width="750" src="images/screens_home.svg" alt="screens_home">
+  <img width="750" src="va_images/screens_home.svg" alt="screens_home">
 </p>
 
 ### Search and Bookmarks
@@ -41,7 +41,7 @@ View is a Mobile Application allowing users to write and read articles or blogs 
 * Bookmarked Posts are placed in a single spot
 
 <p align="center">
-  <img width="750" src="images/screens_search_saved.svg" alt="screens_search_saved">
+  <img width="750" src="va_images/screens_search_saved.svg" alt="screens_search_saved">
 </p>
 
 ### Settings and User Profile
@@ -50,7 +50,7 @@ View is a Mobile Application allowing users to write and read articles or blogs 
 * User statistics
 
 <p align="center">
-  <img width="750" src="images/screens_user_profile.svg" alt="screens_user_profile">
+  <img width="750" src="va_images/screens_user_profile.svg" alt="screens_user_profile">
 </p>
 
 ### Post
@@ -59,7 +59,7 @@ View is a Mobile Application allowing users to write and read articles or blogs 
 * Image Upload
 
 <p align="center">
-  <img width="750" src="images/screens_post.svg" alt="screens_post">
+  <img width="750" src="va_images/screens_post.svg" alt="screens_post">
 </p>
 
 ### More
@@ -73,7 +73,7 @@ View is a Mobile Application allowing users to write and read articles or blogs 
 * The **Dependency Injection** design pattern is implemented
 
 <p align="center">
-  <img width="700" src="images/architecture.svg" alt="architecture">
+  <img width="700" src="va_images/architecture.svg" alt="architecture">
 </p>
 
 ## Testing
